@@ -1,6 +1,7 @@
 # Fitness App
 
 A comprehensive mobile fitness application built with Flutter that helps users track their workouts, monitor progress, and maintain a healthy lifestyle.
+Includes a modern glassmorphic UI element, added with the help of AI tools.
 
 ## Features
 
