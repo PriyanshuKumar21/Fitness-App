@@ -1,0 +1,9 @@
+Found 4 connected devices:
+  SM S921B (mobile) • RZCX30EN3KE • android-arm64  • Android 15 (API 35)
+  Windows (desktop) • windows     • windows-x64    • Microsoft Windows [Version 10.0.26100.4061]
+  Chrome (web)      • chrome      • web-javascript • Google Chrome 136.0.7103.93
+  Edge (web)        • edge        • web-javascript • Microsoft Edge 136.0.3240.92
+
+Run "flutter emulators" to list and start any available device emulators.
+
+If you expected another device to be detected, please run "flutter doctor" to diagnose potential issues. You may also try increasing the time to wait for connected devices with the "--device-timeout" flag. Visit https://flutter.dev/setup/ for troubleshooting tips.
